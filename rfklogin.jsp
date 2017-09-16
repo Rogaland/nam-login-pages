@@ -112,7 +112,7 @@
 			
 				<button class="btn btn-lg btn-primary btn-block" type="submit" onClick="return imageSubmit()">Logg inn</button>
 				<br>
-				<a href="https://selvreg.rogfk.no/pwsms.php" target="_blank" role="button" class="btn btn-info btn-block">Glemt passord?</a>
+				<a href="https://glemtpassord.rogfk.no/" target="_blank" role="button" class="btn btn-info btn-block">Glemt passord?</a>
 			</form>
 		</div> <!-- /container -->
 	</body>
